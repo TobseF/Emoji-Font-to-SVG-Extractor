@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+        width="265"
+        height="265"
+        viewBox="0 0 70.114582 70.114585"
+        version="1.1"
+        id="svg1909"
+        xmlns="http://www.w3.org/2000/svg">
+    <defs
+            id="defs1906">
+        <rect
+                x="25.34241"
+                y="41.74044"
+                width="240.00753"
+                height="177.39687"
+                id="rect41737"/>
+        <rect
+                x="31.30533"
+                y="49.19409"
+                width="196.77636"
+                height="168.45249"
+                id="rect3710"/>
+    </defs>
+    <text
+            xml:space="preserve"
+            transform="matrix(0.26458333,0,0,0.26458333,0.76196943,27.023706)"
+            id="text-box"
+            style="font-style:normal;font-weight:normal;font-size:300px;line-height:0px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3710);display:inline;fill:#000000;fill-opacity:1;stroke:none"
+            x="56.777344"
+            y="0"><tspan
+       x="32.94043"
+       y="135.39245"
+       id="letter"><tspan
+         style="font-family:'Arial';-inkscape-font-specification:'Segoe UI Emoji';text-align:center;text-anchor:middle"
+         id="tspan50637">A</tspan></tspan></text>
+</svg>
